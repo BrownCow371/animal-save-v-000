@@ -9,4 +9,11 @@ html {
 }
 
 /* Write your solution here */
-
+406px to 1170px
+@media only screen and (max-width: 406px) and (min-width: 1170px){
+  #monkey {
+  position: absolute;
+  top: 100px;
+  right: 120px;
+}
+}
